@@ -50,14 +50,6 @@ links:
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-    # TWITCH
-  - Name: Twitch
-    URL: 'https://twitch.tv'
-    Username: harsh98trivedi
-    Icon-Class: fab fa-twitch
-    Color: '#9147fe'
-    Text_Color: '#ffffff'
-
     # SPOTIFY
   - Name: Spotify
     URL: http://open.spotify.com/user
@@ -72,15 +64,8 @@ links:
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
-    # CUSTOM LINK
-  - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
-
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
+footer: 'No'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
