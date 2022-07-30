@@ -20,7 +20,7 @@ links:
     URL: https://www.instagram.com
     Username: djdar999
     Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
+    Icon-Class: fab fa-instagram fa-3x
 
     # LINKEDIN
   - Name: LinkedIn
