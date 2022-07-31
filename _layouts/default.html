@@ -12,13 +12,15 @@ layout: compress
 <body class="bg-black text-white">
     <div class="mx-auto my-auto w-screen">
         <div class="grid place-content-center min-w-full min-h-full py-10 px-7 my-auto min-h-screen absolute z-0">
-								<style>
-								@media screen {
-												background-image: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
-												background-repeat: no-repeat;
-												background-size: 500px;
-								}
-							</style>
+            <div class="bg-black h-full min-w-full absolute z-10"
+                style="background-image: url({{site.Cover_Image}}); background-position: center; background-size: cover;">
+            </div>
+<style>
+body { 
+				background-image: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
+}
+</style>
+            <div class="bg-black h-full w-full absolute z-20 opacity-60"></div>
             <span class="text-center z-30">
                 <h1 class="text-5xl text-center font-semibold mt-3 mx-auto">{{site.name}}</h1>
                 <div class="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1 my-7">
