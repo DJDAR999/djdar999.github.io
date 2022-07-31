@@ -46,7 +46,7 @@ links:
     # EMAIL
   - Name: Email
     URL: 'mailto:harshtrivedi@duck.com'
-    Icon-Class: fas fa-envelope
+    Icon-Class: fas fa-envelope fa-7x
     Color: '#e17055'
     Text_Color: '#ffffff'
 
@@ -59,10 +59,10 @@ links:
 
     # SOUNDCLOUD
   - Name: SoundCloud
-    URL: https://www.soundcloud.com fa-6x
+    URL: https://www.soundcloud.com
     Username: harsh98trivedi
     Color: '#FE5000'
-    Icon-Class: fab fa-soundcloud
+    Icon-Class: fab fa-soundcloud fa-6x
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
