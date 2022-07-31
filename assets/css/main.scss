@@ -24,12 +24,12 @@ html {
     #image {
         transition: all 0.5s ease;
         background-position: center;
+				background-image: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
         &:hover {
             transform: scale(1.05);
         }
         ::after {
             background-color: black;
-						background-image: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
         }
     }
     .links {
