@@ -33,14 +33,14 @@ links:
     # YOUTUBE
   - Name: YouTube
     URL: https://www.youtube.com/channel/UCaXjMdJg7xkiyPedhGTJQKA
-    Username: UCaXjMdJg7xkiyPedhGTJQKA
+    Username: DJ DAR
     Color: '#ff0000'
     Icon-Class: fab fa-youtube fa-7x
 
     # SPOTIFY
   - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy7x5da
+    URL: https://open.spotify.com/artist/1yQH6UjO9ZAs7hPD6gDNMA
+    Username: DJ DAR
     Color: '#1DB954'
     Icon-Class: fab fa-spotify fa-7x
 
