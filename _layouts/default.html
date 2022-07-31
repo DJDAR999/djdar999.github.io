@@ -21,7 +21,7 @@ layout: compress
                     src="https://images.weserv.nl/?url={{site.Image_URL}}&h=300&w=300&fit=cover&mask=circle&maxage=7d"
                     onError="this.onerror=null;this.src='https://github.com/{{site.github_username}}.png';"
                     alt="{{site.name}}">
-                <div class="grid 4xl:grid-cols-5 xl:grid-cols-5 lg:grid-cols-5 md:grid-cols-5 sm:grid-cols-5 my-1">
+                <div class="grid 2xl:grid-cols-5 xl:grid-cols-5 lg:grid-cols-5 md:grid-cols-5 sm:grid-cols-5 my-1">
                     {% unless site.links == "" %}
                     {% include links.html %}
                     {% endunless %}
