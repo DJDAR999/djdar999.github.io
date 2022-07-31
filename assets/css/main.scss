@@ -9,10 +9,26 @@
 @tailwind components;
 @tailwind utilities;
 
-@media screen and (max-width: 414px) {
-  background-image: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
-  background-repeat: no-repeat;
-  background-size: 500px;
+/* :root is <html> element */
+:root {
+  --bg-desktop: none;
+  --bg-mobile: none;
+}
+
+.bg-image {
+  min-height: 200px;
+}
+
+@media screen and (max-width: 768px) {
+  .bg-image {
+    background-image: var(--bg-mobile);
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .bg-image {
+    background-image: var(--bg-desktop);
+  }
 }
 
 body,
