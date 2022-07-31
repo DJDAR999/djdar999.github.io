@@ -15,13 +15,15 @@
 
 @media screen and (min-width: 769px) {
   .bgImage {
-    background: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
+    //background: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
+		background-color: white;
   }
 }
 
 @media screen and (min-width: 1200px) {
   .bgImage {
-    background: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
+    //background: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
+		background-color: blue;
   }
 }
 
@@ -38,7 +40,7 @@ html {
             transform: scale(1.05);
         }
         ::after {
-            background-color: black;
+            background-color: red;
         }
     }
     .links {

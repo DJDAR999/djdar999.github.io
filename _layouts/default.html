@@ -4,15 +4,6 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="en">
-	<script>
-	(function () {
-				const div = document.querySelector('.bg-image'),
-				src = div.getAttribute('data-bg').split(','), // Exctracts URLs from data-bg to an array
-				html = document.documentElement; // A reference to <html> element
-				html.style.setProperty('--bg-desktop', 'url(${src[0]})');
-				html.style.setProperty('--bg-mobile', 'url(${src[1]})');
-	}());
-	</script>
 <head>
     {%include meta.html%}
 </head>
@@ -22,7 +13,7 @@ layout: compress
         <div class="grid place-content-center min-w-full min-h-full py-10 px-7 my-auto min-h-screen absolute z-0">
 				<div class="bgImage"></div>
             <span class="text-center z-30">
-                <h1 class="text-5xl text-center font-semibold mt-3 mx-auto">{{site.name}}</h1>
+                <h2 class="text-5xl text-center font-semibold mt-3 mx-auto">{{site.name}}</h1>
                 <div class="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1 my-7">
                     {% unless site.links == "" %}
                     {% include links.html %}
