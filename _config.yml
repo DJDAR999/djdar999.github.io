@@ -20,14 +20,14 @@ links:
     URL: https://www.instagram.com
     Username: djdar999
     Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram fa-3x
+    Icon-Class: fab fa-instagram fa-5x
 
     # LINKEDIN
   - Name: LinkedIn
     URL: https://www.linkedin.com/in
     Username: harsh98trivedi
     Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in fa-4x
+    Icon-Class: fab fa-linkedin-in fa-5x
 
     # YOUTUBE
   - Name: YouTube
@@ -41,7 +41,7 @@ links:
     URL: http://github.com
     Username: harsh98trivedi
     Color: '#6e5494'
-    Icon-Class: fab fa-github fa-2x
+    Icon-Class: fab fa-github fa-5x
 
     # EMAIL
   - Name: Email
@@ -55,11 +55,11 @@ links:
     URL: http://open.spotify.com/user
     Username: 314ihryk3edvtusti6il3oy3x5da
     Color: '#1DB954'
-    Icon-Class: fab fa-spotify
+    Icon-Class: fab fa-spotify fa-5x
 
     # SOUNDCLOUD
   - Name: SoundCloud
-    URL: https://www.soundcloud.com
+    URL: https://www.soundcloud.com fa-6x
     Username: harsh98trivedi
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
