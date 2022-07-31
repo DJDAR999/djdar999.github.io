@@ -36,20 +36,6 @@ links:
     Color: '#ff0000'
     Icon-Class: fab fa-youtube fa-7x
 
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: harsh98trivedi
-    Color: '#6e5494'
-    Icon-Class: fab fa-github fa-7x
-
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:harshtrivedi@duck.com'
-    Icon-Class: fas fa-envelope fa-7x
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
     # SPOTIFY
   - Name: Spotify
     URL: http://open.spotify.com/user
