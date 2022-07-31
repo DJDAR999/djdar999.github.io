@@ -39,8 +39,8 @@ links:
 
     # SPOTIFY
   - Name: Spotify
-    URL: https://open.spotify.com/artist/1yQH6UjO9ZAs7hPD6gDNMA
-    Username: DJ DAR
+    URL: https://open.spotify.com/artist
+    Username: 1yQH6UjO9ZAs7hPD6gDNMA
     Color: '#1DB954'
     Icon-Class: fab fa-spotify fa-7x
 
