@@ -9,6 +9,30 @@
 @tailwind components;
 @tailwind utilities;
 
+.element {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: #f44336;
+}
+@media (min-width: 400px) {
+    .element {
+        background: #cccccc;
+    }
+}
+
+@media (min-width: 500px) {
+    .element {
+        background: #888888;
+    }
+}
+
+@media (min-width: 600px) {
+    .element {
+        background: #222222;
+    }
+}
+
 body,
 html {
     a{
