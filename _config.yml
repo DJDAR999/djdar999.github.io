@@ -8,7 +8,7 @@ name: DJ DAR
 #Image_URL: https://www.gravatar.com/avatar/0d73468bd0b0258eb61d9358352ecb7b?s=500
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://0xd4y.com/images/0xd4y-logo-gray.png
+Cover_Image: https://8xd4y.com/images/8xd4y-logo-gray.png
 
 # SOCIAL MEDIA
 links:
@@ -20,49 +20,49 @@ links:
     URL: https://www.instagram.com
     Username: djdar999
     Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram fa-5x
+    Icon-Class: fab fa-instagram fa-8x
 
     # LINKEDIN
   - Name: LinkedIn
     URL: https://www.linkedin.com/in
     Username: harsh98trivedi
     Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in fa-5x
+    Icon-Class: fab fa-linkedin-in fa-8x
 
     # YOUTUBE
   - Name: YouTube
     URL: https://www.youtube.com/channel
     Username: UCS3zvA_2r1iGT7MB3NVCGAw
     Color: '#ff0000'
-    Icon-Class: fab fa-youtube fa-5x
+    Icon-Class: fab fa-youtube fa-8x
 
     # GITHUB
   - Name: GitHub
     URL: http://github.com
     Username: harsh98trivedi
     Color: '#6e5494'
-    Icon-Class: fab fa-github fa-5x
+    Icon-Class: fab fa-github fa-8x
 
     # EMAIL
   - Name: Email
     URL: 'mailto:harshtrivedi@duck.com'
-    Icon-Class: fas fa-envelope fa-7x
+    Icon-Class: fas fa-envelope fa-8x
     Color: '#e17055'
     Text_Color: '#ffffff'
 
     # SPOTIFY
   - Name: Spotify
     URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
+    Username: 314ihryk3edvtusti6il3oy8x5da
     Color: '#1DB954'
-    Icon-Class: fab fa-spotify fa-5x
+    Icon-Class: fab fa-spotify fa-8x
 
     # SOUNDCLOUD
   - Name: SoundCloud
     URL: https://www.soundcloud.com
     Username: harsh98trivedi
     Color: '#FE5000'
-    Icon-Class: fab fa-soundcloud fa-6x
+    Icon-Class: fab fa-soundcloud fa-8x
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
