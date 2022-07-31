@@ -9,7 +9,7 @@
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 
-Cover_Image: https://djdar999.github.io/images/cover_image.png
+Cover_Image: /images/cover_image.png
 
 # SOCIAL MEDIA
 links:
