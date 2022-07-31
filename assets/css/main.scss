@@ -10,18 +10,18 @@
 @tailwind utilities;
 
 .bgImage {
-   background: url(path_to_image);
+   background: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
 }
 
 @media screen and (min-width: 769px) {
   .bgImage {
-    background: url(path_to_tablet_image);
+    background: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
   }
 }
 
 @media screen and (min-width: 1200px) {
   .bgImage {
-    background: url(path_to_desktop_image);
+    background: url('https://0xd4y.com/images/0xd4y-logo-gray.png');
   }
 }
 
