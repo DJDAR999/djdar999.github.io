@@ -20,11 +20,10 @@ layout: compress
                 <img id="image"
                     src="https://images.weserv.nl/?url={{site.Image_URL}}&h=300&w=300&fit=cover&mask=circle&maxage=7d"
                     onError="this.onerror=null;this.src='https://github.com/{{site.github_username}}.png';"
-                    alt="{{site.name}}">
                 <br>
                 <h1 class="text-5xl text-center font-semibold mt-3 mx-auto"></h1>
                 <p class="text-base break-words inline-flex font-normal mt-1.5 mx-auto text-center opacity-50 2xl:w-5/12 xl:w-5/12 md:w-6/12 sm:w-full justify-center">{{site.tagline}}</p>
-                <div class="grid 4xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1 my-7">
+                <div class="grid 4xl:grid-cols-8 xl:grid-cols-8 lg:grid-cols-8 md:grid-cols-8 sm:grid-cols-8 my-8">
                     {% unless site.links == "" %}
                     {% include links.html %}
                     {% endunless %}
