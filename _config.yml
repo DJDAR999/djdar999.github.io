@@ -32,8 +32,8 @@ links:
 
     # YOUTUBE
   - Name: YouTube
-    URL: https://www.youtube.com/channel/UCaXjMdJg7xkiyPedhGTJQKA
-    Username: DJ DAR
+    URL: https://www.youtube.com/channel
+    Username: UCaXjMdJg7xkiyPedhGTJQKA
     Color: '#ff0000'
     Icon-Class: fab fa-youtube fa-7x
 
@@ -47,7 +47,7 @@ links:
     # SOUNDCLOUD
   - Name: SoundCloud
     URL: https://www.soundcloud.com
-    Username: harsh98trivedi
+    Username: djdar999
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud fa-7x
 
